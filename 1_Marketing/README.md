@@ -29,7 +29,7 @@ Material de Estudo para o Curso de Técnico em Administração - SENAI Jaguariú
 
 <h3>Material de Apoio:</h3>
 
-<h4>Introdução a Marketing</h4>
+<h4>1.0 - Introdução a Marketing</h4>
 <pre><a href="https://github.com/JansenLeite/comec/blob/main/1_Marketing/1_Introducao_Marketing.pdf">Clique aqui para acessá-lo.</a></pre>
 
 <h4>Vídeo - Comercial Parmalat 1996</h4>
@@ -63,3 +63,9 @@ Material de Estudo para o Curso de Técnico em Administração - SENAI Jaguariú
     - Jingle;
     - Produto (somente 1);
 </pre>
+
+<h4>1.3 Comportamento do Consumidor</h4>
+<pre><a href="https://github.com/JansenLeite/comec/blob/main/1_Marketing/1_3_Comportamento_do_Consumidor.pdf">Clique aqui para acessá-lo.</a></pre>
+
+<h4>1.4 Pesquisa de Mercado e Análise de Dados</h4>
+<pre><a href="https://github.com/JansenLeite/comec/blob/main/1_Marketing/1_4_Pesquisa_de_mercado_e_analise_de_dados.pdf">Clique aqui para acessá-lo.</a></pre>
