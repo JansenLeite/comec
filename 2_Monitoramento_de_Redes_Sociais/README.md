@@ -31,11 +31,20 @@ Material de Estudo para o Curso de Técnico em Administração - SENAI Jaguariú
 <h4>Definições da Atividade</h4>
 <pre>
     - Os grupos deverão pesquisar e listar (publicamente) as principais redes sociais do mercado;
-    - Deverá ser sorteados os temas (redes sociais listadas anteriormente);
-    - Cada equipe irá realizar uma pesquisa sobre o tema sorteado devendo cumprir com as exigências a seguir:
+    - Deverá ser sorteado os temas (redes sociais listadas anteriormente);
+    - Cada equipe irá se organizar e montar uma apresentação dos temas sorteados devendo cumprir com as seguintes exigências:
         * Definição;
         * Origem;
-        * Missão Visão e Valores;
+        * Missão, Visão e Valores;
         * Sua aplicação;
         * Estudo de caso abordando um problema e como pode ser solucionado utilizando a ferramenta proposta;
+    - Tempo máximo de 15 minutos;
+</pre>
+
+<h3>Recursos a serem utilizados:</h3>
+<pre>
+    - Caderno;
+    - Caneta / Lápis;
+    - Computador;
+    - Software de Apresentação (Canva, PowerPoint e outros). *não obrigatório!
 </pre>
