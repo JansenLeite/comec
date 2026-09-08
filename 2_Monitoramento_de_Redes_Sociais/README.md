@@ -19,7 +19,32 @@ Material de Estudo para o Curso de Técnico em Administração - SENAI Jaguariú
 <h4>Introdução a Monitoramento das Redes Sociais</h4>
 <pre><a href="https://github.com/JansenLeite/comec/blob/main/2_Monitoramento_de_Redes_Sociais/2_0_Monitoramento_de_redes_sociais.pdf">Clique aqui para acessá-lo.</a></pre>
 
-<h3>Atividade em Grupo</h3>
+<h3>1.0 Atividade Individual</h3>
+
+<h4>Assista ao Vídeo - Pratrulha do Consumidor.</h4>
+<a href="https://www.youtube.com/watch?v=H4NFR64I1aY">Clique aqui para assistir</a>
+
+<h4>Responda as seguintes questões:</h4>
+<label>Com base no Vídeo anterior, responda as seguintes questões: </label><br /><br />
+
+<b>1) Qual a problemática envolvida?</b><br /></br>
+
+<b>2) O que poderia ter sido feito para evitar o problema?</b><br /></br>
+
+<b>3) O que poderia ter sido feito para ter realizado a resolução de problemas de forma adequada, segundo a gestão de crise, no ato da reclamação?</b><br /></br>
+
+<b>4) O que, na sua opinião, a empresa falhou com o cliente? Justifique de acordo com a Gestão de Crise.</b><br /></br>
+
+<b>5) Crie um mapa (lista) de planos de ação que vá, desde a preventiva até o pós crise.</b><br /></br>
+
+<h4>Definições da atividade</h4>
+<pre>
+    - Responder as 5 questões com base em Gestão de Crise;
+    - Entregar para o professor até a próxima aula.
+</pre>
+
+
+<h3>2.0 Atividade em Grupo</h3>
 
 <h4>Definições da Equipe</h4>
 <pre>
