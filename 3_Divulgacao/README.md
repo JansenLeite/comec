@@ -21,11 +21,13 @@ Material de Estudo para o Curso de Técnico em Administração - SENAI Jaguariú
 <h3>Material de Apoio:</h3>
 
 <h4>Introdução a Divulgação</h4>
-<pre><a href="">Clique aqui para acessá-lo.</a></pre>
+<pre><a href="https://github.com/JansenLeite/comec/blob/main/3_Divulgacao/3_0_Divulgacao.pdf">Clique aqui para acessá-lo.</a></pre>
 
 <h3>1.0 Atividade Individual - ROI</h3>
 <label>Lista de Exercícios sobre ROI.</label>
-<pre><a href="">Clique aqui para acessá-lo.</a></pre>
+<pre>
+    <a href="">Clique aqui para acessá-lo.</a>
+</pre>
 
 <h4>Definições da Atividade</h4>
 <pre>
