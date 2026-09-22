@@ -21,7 +21,7 @@ Material de Estudo para o Curso de Técnico em Administração - SENAI Jaguariú
 <h3>Material de Apoio:</h3>
 
 <h4>Introdução a Comsumidores</h4>
-<pre><a href="">Clique aqui para acessá-lo.</a></pre>
+<pre><a href="https://github.com/JansenLeite/comec/blob/main/4_Consumidores/4_0_Consumidores.pdf">Clique aqui para acessá-lo.</a></pre>
 
 <h3>1.0 Atividade em Grupo</h3>
 
