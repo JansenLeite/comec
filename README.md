@@ -132,3 +132,6 @@ Material de Estudo para o Curso de Técnico em Administração - SENAI Jaguariú
         3. Demonstrar atenção a detalhes.
         4. Demonstrar visão sistêmica.
 </pre>
+
+<h4>Auto Avaliação</h4>
+<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=3qZIQdENBE2kxXjjdOT21s9TnjA0VhxPpDn3fqAMYYRUQlUzVUtWSTQ2R0dJMlBIT0VDVjU2RlNEMy4u">Clique aqui para preencher o formulário.</a>
